@@ -1,0 +1,20 @@
+Exam Name, Subject, Year, Filepath, First Page, Last Page, # of Questions, Question Regex, # of answers is fixed, # of answers, Answer regex
+Australian Science Olympiad,Biology,2007,Olympiad Papers/Biology/2007.pdf,2,3,9,(^Q\d ),True,5,(^[A-E]\. ),DEDCEACEA
+Australian Science Olympiad,Biology,2007,Olympiad Papers/Biology/2007.pdf,2,17,50,(^Q[1-5]?[0-9] ),True,5,(^ *?[A-E]\. ),DEDCEACEAEBAACBDCCABDDAEEEEEDEDDBADEAACBDCDAADBCAC
+Australian Science Olympiad,Biology,2008,Olympiad Papers/Biology/2008.pdf,2,19,47,(^[1-4]?[0-9]\. ),False,,(^ *?[a-e]\. ),CABAAACBCABADCAEAAADDABADDBCDDBDCECADAECDBBDADA
+Australian Science Olympiad,Biology,2009,Olympiad Papers/Biology/2009.pdf,2,17,35,(^[1-3]?[0-9]\. ),False,,(^ *?[a-e]\. ),AAECDBDBDDCBBDDADBDADBCCBCDEABBCEAB
+Australian Science Olympiad,Biology,2010,Olympiad Papers/Biology/2010.pdf,2,21,45,(^[1-4]?[0-9]\. ),False,,(^ *?[a-e]\. ),DDBDAAECEADAECEBBCEBCBAECCDABDCBBCDBCDBADEBBC
+Australian Science Olympiad,Biology,2011,Olympiad Papers/Biology/2011.pdf,2,24,39,(^[1-3]?[0-9]\. ),False,,(^ *?[a-e]\. ),EBACDDDDBADAEBBCEADCBCCCDCCDDDCDBAECDBC
+Australian Science Olympiad,Biology,2012,Olympiad Papers/Biology/2012.pdf,2,21,36,(^[1-3]?[0-9]\. ),False,,(^ *?[a-e]\. ),EDBEBAECADBDBACBDDEBDABCBEAADDCBDACC
+Australian Science Olympiad,Chemistry,2007,Olympiad Papers/Chemistry/2007.pdf,3,8,15,(^Q[1-5]?[0-9] ),True,5,(^ *?[A-E] ),BBCDEBDDCACBBEE
+Australian Science Olympiad,Chemistry,2008,Olympiad Papers/Chemistry/2008.pdf,3,7,15,(^Q[1-5]?[0-9] ),True,5,(^ *?[A-E] ),CDCDEEBDBCAAAAE
+Australian Science Olympiad,Chemistry,2009,Olympiad Papers/Chemistry/2009.pdf,5,9,15,(^Q[1-5]?[0-9] ),True,5,(^ *?[A-E] ),EBBBDCBCEACBCDE
+Australian Science Olympiad,Chemistry,2010,Olympiad Papers/Chemistry/2010.pdf,5,10,15,(^Q[1-5]?[0-9] ),True,5,(^ *?[A-E] ),DDABBDAEEACBEBA
+Australian Science Olympiad,Chemistry,2011,Olympiad Papers/Chemistry/2011.pdf,4,7,15,(^[1-3]?[0-9]\. ),True,5,(^ *?[a-e]\. ),AEDBCDDBACBBAED
+Australian Science Olympiad,Chemistry,2012,Olympiad Papers/Chemistry/2012.pdf,4,7,15,(^[1-3]?[0-9]\. ),True,5,(^ *?[a-e]\. ),EAACDDEBABACCAD
+Australian Science Olympiad,Physics,2007,Olympiad Papers/Physics/2007.pdf,2,5,10,(^Question [1-5]?[0-9]\. ),True,5,(^ *?\([A-E]\) ),DAACCBBEBB
+Australian Science Olympiad,Physics,2008,Olympiad Papers/Physics/2008.pdf,2,5,10,(^Question [1-5]?[0-9]\. ),True,5,(^ *?[A-E]\) ),CECECEDDBA
+Australian Science Olympiad,Physics,2009,Olympiad Papers/Physics/2009.pdf,2,6,10,(^Question [1-5]?[0-9]),True,5,(^ *?\([A-E]\) ),AADCCECEBC
+Australian Science Olympiad,Physics,2010,Olympiad Papers/Physics/2010.pdf,2,6,10,(^Question [1-5]?[0-9]),True,5,(^ *?\([A-E]\) ),BADEEAAAEB
+Australian Science Olympiad,Physics,2011,Olympiad Papers/Physics/2011.pdf,2,6,10,(^Question [1-5]?[0-9]),True,5,(^ *?[a-e]\. ),BDAAABECDE
+Australian Science Olympiad,Physics,2012,Olympiad Papers/Physics/2012.pdf,2,5,10,(^Question [1-5]?[0-9]),True,5,(^ *?[a-e]\. ),DECEABACDD
