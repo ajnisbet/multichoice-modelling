@@ -2,7 +2,6 @@
 rm(list = ls())
 cat("\014")
 set.seed(1)
-setwd("/mnt/data/Dropbox/Uni/2014/STAT 462/Multichoice Project")
 
 
 # Load data
